@@ -22,5 +22,5 @@
 ### Entre em contato comigo: 
 ![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitória-pacheco-rodrigues-035a752b3)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitória-pacheco-rodrigues)
 
